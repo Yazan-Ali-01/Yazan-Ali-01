@@ -27,15 +27,19 @@ I'm Yazan Ali, a passionate Web Developer 💻.
 
 <hr>
 
+##### Fun fact: I once solved the world's oldest question with a single line of JavaScript
+
+<!-- wi*quL3fcV -->
+
 ```javascript
 // Which came first: the chicken or the egg?
-console.log(['🥚', '🐣', '🐥', '🐔'].sort())
-
->>> [
-
----
+console.log(["🥚", "🐣", "🐥", "🐔"].sort()) >>> ["🐔", "🐣", "🐥", "🥚"];
+```
 
 Credit: [YazanAli](https://github.com/Yazan-Ali-01)
 
 Last Edited on: 01/02/2023
+
+```
+
 ```
