@@ -9,7 +9,7 @@ I'm Yazan Ali, a passionate Web Developer 💻.
 
 - :seedling: I’m currently learning about microservices architecture.
 - :computer: Most used line of code `git commit -m "Initial Commit"`.
-- 🤔 I’m looking for an internship.
+- 🤔 I’m looking for an opportunity.
 - :speech_balloon: Ask me about anything.
 - 😄 Pronouns: He/His.
 
