@@ -1,5 +1,5 @@
 <p align="center">
-<img alt="GIF" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="850" height="200" />
+<img alt="GIF" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="850" height="300" />
  <p/>
 <h1 align="center"> Hi! I'm Yaza</h1>
 
