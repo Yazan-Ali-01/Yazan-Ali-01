@@ -7,7 +7,7 @@ I'm Yazan Ali, a passionate Web Developer 💻.
 
 <!-- TODO: Add last video link -->
 
-- :seedling: I’m currently learning about Next JS.
+- :seedling: I’m currently learning about microservices architecture.
 - :computer: Most used line of code `git commit -m "Initial Commit"`.
 - 🤔 I’m looking for an internship.
 - :speech_balloon: Ask me about anything.
